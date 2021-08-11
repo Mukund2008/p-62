@@ -1,0 +1,29 @@
+p
+{
+ font-size: 25px;
+}
+img
+{
+ height: 200px;
+ width: 200px;
+}
+
+#header{
+ height: 500px !important;
+ width: 800px !important;
+}
+#myCarousel{
+    background-color: chartreuse;
+    }
+    
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+    width: 300px;
+    }
+.carousel-inner p{
+    margin-bottom:15px;
+    margin-top: 15px;
+    color: crimson;
+    font-size:20px;
+    }
